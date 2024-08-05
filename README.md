@@ -1,5 +1,4 @@
-# Dedicated to cosmos
-# NASODnsgaSO-NET
+# NASOD
 
 ## Neural Architecture Search for Object Detectors using NSGA2 by Surrogates Optimization
 ## Genetic Integer Encoding
@@ -71,12 +70,7 @@ In an effort to efficiently map surrogate values to genomic data, I utilized an 
 <img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/bbb0169b-7f3d-42e4-bee7-29e287d9a8e3" alt="image" width="1000">
 
 ## Surrogate Models on Archive
-![pySOT](https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/7a881d9b-cda8-40da-93f8-ed3d8113544b)
-
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/0af960e3-c743-4c5e-8fdd-f668d400dc5b" alt="image" width="1000">
-
-## Ancestors taken from different parts of Search Space
-<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/319f3ea1-d392-491b-97a9-d64b7a2f7408" alt="image" width="1000">
 
 ## Node Operation
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/21f7cdaa-ac61-4c71-9550-6915d28c1d3c" alt="image" width="1000">
